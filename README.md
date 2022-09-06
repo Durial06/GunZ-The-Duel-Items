@@ -46,7 +46,7 @@ Use Maiet Character Viewer to check your items.
 - GunzOnline TH
 - MonsterGunZ
 - YearGunZ
-
+- HyperGunZ
 
 
 
