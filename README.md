@@ -1,6 +1,6 @@
 GunZ The Duel Items from old private servers - Thanks too all the private servers who ever work on the items 
 
-Big archive from (from -> 2005 -> 2016) will be listing all the private servers name here under.
+Big archive (from -> 2005 -> 2016) will be listing all the private servers name here under.
 
 Use Maiet Character Viewer to check your items.
 
