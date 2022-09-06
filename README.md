@@ -2,6 +2,8 @@ GunZ The Duel Items from old private servers - Thanks too all the private server
 
 Big archive (from -> 2005 -> 2016) will be listing all the private servers name here under.
 
+Every item is converted too '.elu' file
+
 Use Maiet Character Viewer to check your items.
 
 - Crazy Toffi GunZ
