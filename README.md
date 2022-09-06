@@ -39,6 +39,13 @@ Use Maiet Character Viewer to check your items.
 - SnowGamerzGunZ
 - RestyleGamerZ
 - QualityGunZ
+- DaeckglerGamerz Gunz
+- EnigmaGunZ
+- Gunz Vz network
+- GunzArmy
+- GunzOnline TH
+- MonsterGunZ
+- YearGunZ
 
 
 
