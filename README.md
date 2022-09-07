@@ -5,6 +5,7 @@ Big archive (from -> 2005 -> 2016) will be listing all the private servers name 
 Every item is converted too '.elu' file
 
 Use Maiet Character Viewer to check your items.
+- https://github.com/WhyWolfie/GunZ-The-Duel/blob/master/Tools/elu/Maiet%20Character%20Viewer(english).zip
 
 - Crazy Toffi GunZ
 - Last GunZ
